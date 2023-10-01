@@ -1,5 +1,5 @@
 # Casino-Game
-This project is a casino roulette game that I am currently working on, which uses functions and loop to create a infinite game that plays until the user decides to break the game. Here are the 6 games that I implemented:
+This project is a casino roulette game I am currently working on, which uses functions and loop to create a infinite game that plays until the user decides to break the game. Here are the 6 games that I implemented:
 - With each game, the user bets five dollars and can recieve a maximum payout of $175 to $0. 
 1. Straight Up (Single Number Game): Single number selection. Potential payout is 35 times the bet.
 2. Split (Double Number Game):  Single number selection. Covers the chosen number and one adjacent number. Potential payout is 17 times the bet.
@@ -9,4 +9,4 @@ This project is a casino roulette game that I am currently working on, which use
 6. Even/Odd: Covers all even or all odd numbers from 1-36. Potential payout is even money ($10).
 7. Break the Game
 
-- In this game, I implement Randomness to simulate the spin, generating a number between 1 and 36, User Input to simulate the betting game types, Calculating Outcomes to compare the random outcome with the player's bet, while determining if they won and calculate winnings, and lastly, Replayability which is implemented by a loop allowing players to continue betting or exit the game. 
+- In this game, I implemented Randomness to simulate the spin, generating a number between 1 and 36, User Input to simulate the betting game types, Calculating Outcomes to compare the random outcome with the player's bet, while determining if they won and calculate winnings, and lastly, Replayability which is implemented by a loop allowing players to continue betting or exit the game. 
